@@ -1,1 +1,1 @@
-# Text-sentiment for textual data input
+# Text sentiment for textual data input
